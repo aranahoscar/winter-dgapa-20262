@@ -1,0 +1,5 @@
+[deps]
+IJulia = "7073ff75-c697-5162-9457-3a42ba8f1926"
+
+[compat]
+julia = "1.10"
